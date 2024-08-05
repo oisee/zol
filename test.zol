@@ -1,0 +1,15 @@
+fun add(a: i16 in HL, b: i16 in DE) out HL {
+    if a > b {
+        return a + b;
+    } else {
+        return a - b;
+    }
+}
+
+fun main() {
+    x: i16 = 5;
+    y: i16 = 10;
+    while x < y {
+        x = x + 1;
+    }
+}

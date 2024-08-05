@@ -1,0 +1,9 @@
+ZOL.g4
+ZOL.interp
+ZOL.tokens
+ZOLLexer.interp
+ZOLLexer.py
+ZOLLexer.tokens
+ZOLParser.py
+compile.sh
+dir.txt
